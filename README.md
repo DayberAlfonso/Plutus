@@ -1,1 +1,1 @@
-A expense tracker app with a simple user friendly interface. 
+An expense tracker app with a simple user friendly interface. 
